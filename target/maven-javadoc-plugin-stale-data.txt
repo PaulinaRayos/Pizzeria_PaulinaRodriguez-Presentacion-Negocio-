@@ -1,0 +1,56 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/pauli/.m2/repository/com/mysql/mysql-connector-j/9.0.0/mysql-connector-j-9.0.0.jar;C:/Users/pauli/.m2/repository/com/google/protobuf/protobuf-java/4.26.1/protobuf-java-4.26.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/pauli/OneDrive/Documentos/NetBeansProjects/JDBCPizzeria_RodriguezPaulina/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/pauli/OneDrive/Documentos/NetBeansProjects/JDBCPizzeria_RodriguezPaulina/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JDBCPizzeria_RodriguezPaulina 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'JDBCPizzeria_RodriguezPaulina 1.0-SNAPSHOT API'
+com.mycompany.jdbcpizzeria_rodriguezpaulina
+dao
+interfaces
+negocio
+objetos
+presentacion
+C:\Users\pauli\.m2\repository\com\mysql\mysql-connector-j\9.0.0\mysql-connector-j-9.0.0.jar = 1724890110237
+C:\Users\pauli\.m2\repository\com\google\protobuf\protobuf-java\4.26.1\protobuf-java-4.26.1.jar = 1724890110751
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\src\main\java = 1725495392440
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\allclasses-index.html = 1725821202112
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\allpackages-index.html = 1725821202117
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\copy.svg = 1725821202201
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\element-list = 1725821201749
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\help-doc.html = 1725821202191
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\index-all.html = 1725821202181
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\index.html = 1725821202069
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\jquery-ui.overrides.css = 1725821202274
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\member-search-index.js = 1725821202130
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\module-search-index.js = 1725821202123
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\overview-summary.html = 1725821202184
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\overview-tree.html = 1725821202061
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\package-search-index.js = 1725821202125
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\script.js = 1725821202199
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\search.js = 1725821202210
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\serialized-form.html = 1725821201914
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\stylesheet.css = 1725821202196
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\tag-search-index.js = 1725821202141
+C:\Users\pauli\OneDrive\Documentos\NetBeansProjects\JDBCPizzeria_RodriguezPaulina\target\reports\apidocs\type-search-index.js = 1725821202127
